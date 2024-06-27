@@ -92,4 +92,5 @@ The NOT operator in SQL provides a straightforward way to negate conditions in S
     <Author key={username} username={username} />
   ))}
 </div>
-Footer
+
+
